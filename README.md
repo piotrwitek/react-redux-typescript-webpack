@@ -11,11 +11,9 @@
 - React Hot Loader  
 - Cool dependency graph!!! 🌟 __NEW__  
 
-![](https://raw.githubusercontent.com/piotrwitek/react-redux-typescript-webpack-starter/master/graph.svg)
+![dev demo](raw.githubusercontent.com/piotrwitek/react-redux-typescript-webpack-starter/docs/images/dev.gif)
 
-![](https://raw.githubusercontent.com/piotrwitek/react-redux-typescript-webpack-starter/docs/images/dev.gif)
-
-![](https://raw.githubusercontent.com/piotrwitek/react-redux-typescript-webpack-starter/docs/images/build.gif)
+![build demo](raw.githubusercontent.com/piotrwitek/react-redux-typescript-webpack-starter/docs/images/build.gif)
 
 ---
 
