@@ -11,7 +11,7 @@
 - React Hot Loader  
 - Cool dependency graph!!! 🌟 __NEW__  
 
-<img src="https://raw.githubusercontent.com/piotrwitek/react-redux-typescript-webpack-starter/master/graph.svg" /> 
+![](graph.svg) 
 
 ![dev demo](raw.githubusercontent.com/piotrwitek/react-redux-typescript-webpack-starter/docs/images/dev.gif)
 
